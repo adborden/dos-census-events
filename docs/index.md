@@ -4,12 +4,12 @@ title: Census Events documentation
 
 Welcome!
 
+Census Events helps residents find events and resources in preparation for the
+2020 Census.
+
 Census Events was created by [OpenOakland](https://openoakland.org/), a team of
 volunteers, part of the [Brigade Network](https://brigade.codeforamerica.org)
 under [Code For America](https://www.codeforamerica.org).
-
-Census Events helps residents find events and resources in preparation for the
-2020 Census.
 
 
 ## How to get Census Events for your County
