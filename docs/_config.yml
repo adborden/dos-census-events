@@ -21,7 +21,7 @@ github_repo: "dos-census-events"
 twitter: OpenOakland
 
 # Should there be feedback buttons at the bottom of pages?
-feedback: true
+feedback: false
 
 # Link to a privacy policy in footer, uncomment and define if wanted
 # privacy: https://domain.com/privacy
@@ -39,7 +39,7 @@ markdown: kramdown
 
 # If you add tags to pages, you can link them to some external search
 # If you want to disable this, comment the URL.
-tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
+#tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
 tag_color: primary # danger, success, warning, primary, info, secondary
 
 accentColor: red # purple, green, etc.
@@ -48,12 +48,6 @@ fixedNav: 'true' # true or false
 
 permalink: pretty
 remote_theme: vsoch/docsy-jekyll
-
-# Collections
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:path
 
 # Defaults
 defaults:

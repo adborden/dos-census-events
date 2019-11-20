@@ -15,4 +15,4 @@ Census Events helps residents find events and resources in preparation for the
 ## How to get Census Events for your County
 
 We've designed Census Events to be reusable. The easiest way to stand up your
-own instance of Census Events it to use [Heroku]({% link heroku.md %}).
+own instance of Census Events it to use [Heroku]({{ site.baseurl }}{% link heroku.md %}).
